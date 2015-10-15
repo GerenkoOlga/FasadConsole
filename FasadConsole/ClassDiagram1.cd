@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FasadConsole.CdPlayer">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhgAIAAQAAgAAAAIAAAAAAAIAAAAAAAoAAAAAAAAIA=</HashCode>
+      <FileName>CdPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.DvdPlayer">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhgAIAAAAAgAAAIIBAAAAAAIAAQAAAAoAAAAAAAAIA=</HashCode>
+      <FileName>DvdPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.HomeTheaterFacade">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARgAABAABAAAgJAAAAAAAAQAAAIAAAAgAAABAAAIAAA=</HashCode>
+      <FileName>HomeTheaterFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.PopcornPopper">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAgAAAAIAAAAAAAAACAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>PopcornPopper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.Program">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.Projector">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAgAAAAIAAAAAAAAAAAAgAAAABAAAAAAIA=</HashCode>
+      <FileName>Projector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.Screen">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.TheaterLights">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAgAAAgIAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>TheaterLights.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FasadConsole.Tuner">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAgEgAAAAKAAAAAAAAAAAAACAAAAAAAAAAIA=</HashCode>
+      <FileName>Tuner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
